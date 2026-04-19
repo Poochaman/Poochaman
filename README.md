@@ -1,8 +1,20 @@
+
+Paste it like this in your README:
+
+```markdown
 # Richard Russell
 
 Founder @ AI Venture X  
 
 Deploying agentic AI systems for enterprise automation, integrations, and revenue-generating workflows.
+
+```mermaid
+flowchart LR
+    A[Client Interfaces<br/>Web, SaaS, Internal Tools, Games] --> B[API Layer<br/>Auth, Validation, Routing]
+    B --> C[Agent Orchestration Layer<br/>OpenClaw, Custom Frameworks]
+    C --> D[Specialist Agents<br/>Sales, Support, Research, Ops]
+    D --> E[Tool Layer<br/>CRM, Data, Payments, Messaging, Workflows]
+    E --> F[Enterprise Systems<br/>Platforms, APIs, Back Office]
 
 ---
 
