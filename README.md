@@ -16,10 +16,10 @@ flowchart LR
 ```
 ## Key Repositories
 
-- [enterprise-agentic-ai](https://github.com/Poochaman/enterprise-agentic-ai) — enterprise-grade multi-agent AI systems  
-- [multi-agent-orchestration](https://github.com/Poochaman/multi-agent-orchestration) — orchestration and routing across agents  
-- [ai-agent-organisation](https://github.com/Poochaman/ai-agent-organisation) — agent roles, governance, and structure  
-- [white-label-ai-api](https://github.com/Poochaman/white-label-ai-api) — stateless API for embedding AI agents  
+- [enterprise-agentic-ai](https://github.com/Poochaman/enterprise-agentic-ai) — enterprise-grade multi-agent AI systems for automation and integration  
+- [multi-agent-orchestration](https://github.com/Poochaman/multi-agent-orchestration) — orchestration and routing across specialist agents  
+- [ai-agent-organisation](https://github.com/Poochaman/ai-agent-organisation) — agent roles, governance, and organisational structure  
+- [white-label-ai-api](https://github.com/Poochaman/white-label-ai-api) — stateless API for embedding AI agents at scale  
 
 ---
 
