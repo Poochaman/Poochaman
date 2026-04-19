@@ -115,16 +115,16 @@ This approach enables:
 ## Featured Work
 
 ### Enterprise Agentic AI  
-Architectures and patterns for deploying agentic AI systems in enterprise environments.
+Design and deployment of enterprise-grade multi-agent AI systems for automation, integration, and operational workflows.
 
 ### Multi-Agent Orchestration  
-Designing systems where specialised agents collaborate across structured workflows.
+Implementation of orchestration layers coordinating specialist agents across structured workflows and decision pipelines.
 
 ### AI Agent Organisation  
-Structuring agents as organisational units with roles, delegation, and governance.
+Development of agent-driven systems structured as organisational models with defined roles, delegation, and governance.
 
 ### White-Label AI API  
-Stateless API layer for embedding AI agents into applications and products.
+Stateless API infrastructure for embedding AI agents into applications, enabling scalable, white-label deployment.
 
 ---
 
