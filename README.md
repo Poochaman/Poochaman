@@ -8,11 +8,16 @@ Deploying agentic AI systems for enterprise automation, integrations, and revenu
 
 ## Overview
 
-I design and deploy AI systems that operate as coordinated, multi-agent environments rather than isolated tools.
+I design and deploy production AI systems that operate as coordinated, multi-agent environments rather than isolated tools.
+
+My work combines:
+- 20+ years delivering large-scale, FCA-regulated transformation programmes  
+- enterprise system integration across data, cloud, and operational platforms  
+- hands-on development of agentic AI systems and orchestration layers  
 
 At AI Venture X, this includes:
-- 125+ active AI agents operating across workflows  
-- multiple agent-driven systems structured as organisational models  
+- multi-agent environments operating across business workflows  
+- AI systems structured as organisational models rather than standalone tools  
 - orchestration layers built using OpenClaw and custom frameworks  
 
 These systems are designed to:
