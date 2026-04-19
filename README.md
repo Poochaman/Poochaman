@@ -1,5 +1,7 @@
 # Richard Russell
 
+[Repositories](#key-repositories) • [Overview](#overview) • [Capabilities](#core-capabilities)
+
 Building and deploying enterprise-grade multi-agent AI systems at scale (100+ agents across production workflows)
 
 Founder @ AI Venture X
@@ -12,6 +14,12 @@ flowchart LR
     D --> E[Tools]
     E --> F[Enterprise Systems]
 ```
+## Key Repositories
+
+- [enterprise-agentic-ai](https://github.com/Poochaman/enterprise-agentic-ai) — enterprise-grade multi-agent AI systems  
+- [multi-agent-orchestration](https://github.com/Poochaman/multi-agent-orchestration) — orchestration and routing across agents  
+- [ai-agent-organisation](https://github.com/Poochaman/ai-agent-organisation) — agent roles, governance, and structure  
+- [white-label-ai-api](https://github.com/Poochaman/white-label-ai-api) — stateless API for embedding AI agents  
 
 ---
 
