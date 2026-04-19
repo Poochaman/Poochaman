@@ -1,14 +1,9 @@
-
-Paste it like this in your README:
-
-```markdown
 # Richard Russell
 
 Founder @ AI Venture X  
 
 Deploying agentic AI systems for enterprise automation, integrations, and revenue-generating workflows.
 
-```markdown
 ```mermaid
 flowchart LR
     A[Client Interfaces] --> B[API Layer]
@@ -16,6 +11,7 @@ flowchart LR
     C --> D[Specialist Agents]
     D --> E[Tool Layer]
     E --> F[Enterprise Systems]
+```
 
 ---
 
