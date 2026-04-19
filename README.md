@@ -1,6 +1,6 @@
 # Richard Russell
 
-Founder @ AI Venture X
+Founder @ AI Venture X  
 
 Deploying agentic AI systems for enterprise automation, integrations, and revenue-generating workflows.
 
@@ -10,11 +10,16 @@ Deploying agentic AI systems for enterprise automation, integrations, and revenu
 
 I design and deploy AI systems that operate as coordinated, multi-agent environments rather than isolated tools.
 
-These systems are built to:
-- automate complex business processes
-- integrate with existing enterprise infrastructure
-- operate reliably under real-world constraints
-- produce measurable commercial outcomes
+At AI Venture X, this includes:
+- 125+ active AI agents operating across workflows  
+- multiple agent-driven systems structured as organisational models  
+- orchestration layers built using OpenClaw and custom frameworks  
+
+These systems are designed to:
+- automate complex business processes  
+- integrate with enterprise infrastructure  
+- operate reliably under real-world constraints  
+- produce measurable commercial outcomes  
 
 The focus is on **production deployment**, not experimentation.
 
@@ -30,6 +35,16 @@ The focus is on **production deployment**, not experimentation.
 
 ---
 
+## Current Focus
+
+- Scaling multi-agent systems with 100+ coordinated agents  
+- Building agentic orchestration layers using OpenClaw and custom frameworks  
+- Developing AI-driven organisations with defined roles and workflows  
+- Deploying AI agents across enterprise, gaming, and creator ecosystems  
+- Supporting commercial AI systems operating in real-world environments  
+
+---
+
 ## System Architecture
 
 Typical deployment model:
@@ -38,7 +53,7 @@ Client Interface
 → API Layer (authentication, routing, validation)  
 → Agent Layer (reasoning and coordination)  
 → Tool Layer (controlled execution)  
-→ Enterprise Systems (CRM, data, messaging)
+→ Enterprise Systems (CRM, data, messaging)  
 
 Key principles:
 - stateless interaction models  
@@ -48,18 +63,38 @@ Key principles:
 
 ---
 
+## AI Organisations
+
+AI Venture X operates multiple agent-driven systems structured as organisational models rather than single-agent tools.
+
+These systems:
+- consist of 100+ coordinated agents  
+- operate with defined roles, responsibilities, and delegation models  
+- are structured as functioning AI organisations  
+- execute workflows across business, automation, and commercial use cases  
+
+Two such systems are currently deployed using OpenClaw-based orchestration.
+
+This approach enables:
+- scalable task delegation  
+- controlled execution  
+- modular system design  
+- real-world operational capability  
+
+---
+
 ## Featured Work
 
-### Enterprise Agentic AI
+### Enterprise Agentic AI  
 Architectures and patterns for deploying agentic AI systems in enterprise environments.
 
-### Multi-Agent Orchestration
+### Multi-Agent Orchestration  
 Designing systems where specialised agents collaborate across structured workflows.
 
-### AI Agent Organisation
+### AI Agent Organisation  
 Structuring agents as organisational units with roles, delegation, and governance.
 
-### White-Label AI API
+### White-Label AI API  
 Stateless API layer for embedding AI agents into applications and products.
 
 ---
@@ -70,7 +105,19 @@ Stateless API layer for embedding AI agents into applications and products.
 - Customer support automation  
 - Internal knowledge assistants  
 - Workflow automation across business functions  
-- Embedded AI in SaaS products  
+- Embedded AI in SaaS platforms  
+- AI-driven systems in gaming environments  
+- AI integrations for creator and influencer ecosystems  
+
+---
+
+## Experience
+
+- 3+ years building AI automation tools and agent-based systems  
+- Design and operation of multi-agent environments with 100+ agents  
+- Development of AI-driven organisational systems using OpenClaw  
+- Enterprise deployments across Financial Services, Government, and commercial sectors  
+- Creation of white-label AI infrastructure and API layers  
 
 ---
 
@@ -99,6 +146,6 @@ LinkedIn: https://www.linkedin.com/company/ai-venture-x/
 ## Focus
 
 Current work is centred on:
-- scaling multi-agent systems
-- building white-label AI infrastructure
-- deploying AI in commercially viable environments
+- scaling multi-agent systems  
+- building white-label AI infrastructure  
+- deploying AI in commercially viable environments  
