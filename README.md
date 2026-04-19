@@ -1,8 +1,9 @@
 # Richard Russell
+Building multi-agent AI systems at scale (100+ agents across production workflows)
 
 Founder @ AI Venture X  
 
-Deploying agentic AI systems for enterprise automation, integrations, and revenue-generating workflows.
+Deploying agentic AI systems for enterprise automation, integration, and revenue generation.
 
 ```mermaid
 flowchart LR
