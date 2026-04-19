@@ -6,10 +6,10 @@ Deploying agentic AI systems for enterprise automation, integrations, and revenu
 
 ```mermaid
 flowchart LR
-    A[Client Interfaces] --> B[API Layer]
-    B --> C[Agent Orchestration Layer]
-    C --> D[Specialist Agents]
-    D --> E[Tool Layer]
+    A[Client] --> B[API]
+    B --> C[Orchestration]
+    C --> D[Agents]
+    D --> E[Tool]
     E --> F[Enterprise Systems]
 ```
 
