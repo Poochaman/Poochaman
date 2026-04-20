@@ -171,11 +171,11 @@ Stateless API infrastructure for embedding AI agents into applications, enabling
 
 ## Experience
 
-- 3+ years building AI automation tools and agent-based systems  
-- Design and operation of multi-agent environments with 100+ agents  
-- Development of AI-driven organisational systems using OpenClaw  
-- Enterprise deployments across Financial Services, Government, and commercial sectors  
-- Creation of white-label AI infrastructure and API layers  
+- 5+ years designing and delivering production-grade agentic AI systems
+- Architecture and operation of multi-agent environments (100+ agents)
+- Cross-platform expertise (OpenAI, CrewAI, OpenClaw and others), applying consistent orchestration patterns across frameworks
+- Enterprise deployments across Financial Services, Government, and commercial sectors
+- Development of white-label AI infrastructure and API layers
 
 ---
 
