@@ -1,6 +1,6 @@
 # Richard Russell
 
-[Repositories](#key-repositories) • [Overview](#overview) • [Capabilities](#core-capabilities)
+[Repositories](#key-repositories) • [Overview](#overview) • [Capabilities](#core-capabilities) • [Operating Model](#ai-company-operating-model) • [Experience](#experience)
 
 Founder @ AI Venture X
 
@@ -14,12 +14,31 @@ flowchart LR
     D --> E[Tools & Integrations]
     E --> F[Enterprise Systems]
 ```
+
+---
+
 ## Key Repositories
 
 - [enterprise-agentic-ai](https://github.com/Poochaman/enterprise-agentic-ai) — enterprise-grade multi-agent AI systems for automation and integration  
 - [multi-agent-orchestration](https://github.com/Poochaman/multi-agent-orchestration) — orchestration and routing across specialist agents  
 - [ai-agent-organisation](https://github.com/Poochaman/ai-agent-organisation) — agent roles, governance, and organisational structure  
 - [white-label-ai-api](https://github.com/Poochaman/white-label-ai-api) — stateless API for embedding AI agents at scale  
+
+---
+
+## Featured Work
+
+### Enterprise Agentic AI  
+Design and deployment of enterprise-grade multi-agent AI systems for automation, integration, and operational workflows.
+
+### Multi-Agent Orchestration  
+Implementation of orchestration layers coordinating specialist agents across structured workflows and decision pipelines.
+
+### AI Agent Organisation  
+Development of agent-driven systems structured as organisational models with defined roles, delegation, and governance.
+
+### White-Label AI API  
+Stateless API infrastructure for embedding AI agents into applications, enabling scalable, white-label deployment.
 
 ---
 
@@ -30,12 +49,12 @@ I design and deploy production AI systems that operate as coordinated multi-agen
 My work combines:
 - 20+ years delivering large-scale, FCA-regulated transformation programmes (£250m+)  
 - enterprise system integration across data, cloud, and operational platforms  
-- hands-on development of agentic AI systems and orchestration layers  
+- 5+ years designing and deploying agentic AI systems and orchestration layers  
 
 At AI Venture X:
-- multi-agent systems operating across business workflows  
-- AI structured as organisational models rather than standalone tools  
-- orchestration layers built using OpenClaw and custom frameworks  
+- multi-agent systems operate across business workflows  
+- AI is structured as organisational models rather than standalone tools  
+- orchestration is built across multiple agent frameworks, model providers, and custom stacks  
 
 These systems:
 - automate complex business processes  
@@ -51,24 +70,23 @@ These systems:
 - AI agent organisations with defined roles and governance  
 - Stateless API architectures for scalable deployment  
 - Integration with CRMs, internal systems, and external APIs  
-- Workflow automation and decision routing
-- End-to-end delivery from architecture through to production deployment
+- Workflow automation and decision routing  
+- End-to-end delivery from architecture through to production deployment  
 
 ---
 
 ## Current Focus
 
-- Scaling multi-agent systems (100+ agents across production workflows)
-- Building agentic orchestration layers using OpenClaw and custom frameworks  
+- Scaling multi-agent systems (100+ agents across production workflows)  
+- Building agentic orchestration layers across multiple frameworks, providers, and deployment models  
 - Developing AI-driven organisations with defined roles and workflows  
 - Deploying AI agents across enterprise, gaming, and creator ecosystems  
-- Supporting commercial AI systems operating in real-world environments  
 
 ---
 
 ## System Architecture
 
-Typical deployment model:
+Typical production pattern:
 
 Client Interface  
 → API Layer (authentication, routing, validation)  
@@ -98,62 +116,78 @@ Result:
 
 ---
 
-## Agent Organisation Model
+## AI Company Operating Model
 
-Systems are structured as operational organisations rather than collections of isolated agents.
+These systems are structured as operational AI organisations rather than collections of isolated agents.
 
-Typical structure includes:
-- Executive layer (strategy, prioritisation, oversight)
-- Functional agents (sales, support, research, operations)
-- Orchestration layer (routing, delegation, coordination)
-- Tool layer (controlled access to external systems)
+The operating model includes:
+- human governance and strategic oversight  
+- executive and functional leadership agents  
+- role-based delegation across specialist teams  
+- controlled execution through tools and integrations  
 
-Agents operate with defined roles, responsibilities, and delegation models, enabling coordinated execution across workflows.
+Agents operate with defined responsibilities, model tiers, and delegation paths, enabling coordinated execution across complex workflows.
 
 ```mermaid
 flowchart TB
-    A[Executive Layer] --> B[Orchestration]
-    B --> C1[Sales Agents]
-    B --> C2[Support Agents]
-    B --> C3[Research Agents]
-    B --> C4[Operations Agents]
-    C1 --> D[Tools]
-    C2 --> D
-    C3 --> D
-    C4 --> D
-    D --> E[Enterprise Systems]
+    A[Board / Governance<br/>Human Oversight] --> B[CEO Agent<br/>Frontier Model]
+
+    B --> C1[CMO<br/>High-Capability Model]
+    B --> C2[CTO<br/>High-Capability Model]
+    B --> C3[COO / Operations<br/>High-Capability Model]
+    B --> C4[Sales / Growth<br/>High-Capability Model]
+    B --> C5[Research Lead<br/>High-Capability Model]
+
+    C1 --> D1[Marketing Workers<br/>Efficient Models]
+    C2 --> D2[Engineering Workers<br/>Efficient Models]
+    C3 --> D3[Operations Workers<br/>Efficient Models]
+    C4 --> D4[Sales Workers<br/>Efficient Models]
+    C5 --> D5[Research Workers<br/>Efficient Models]
+
+    D1 --> E[Tools & Integrations]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+    D5 --> E
+
+    E --> F[Enterprise Systems]
 ```
+
+### Intelligence Routing Model
+
+Requests are routed by policy, risk, complexity, value, and confidence so that frontier intelligence is reserved for the highest-leverage decisions, while efficient models handle scaled execution.
+
+```mermaid
+flowchart TB
+    A[Incoming Task / Request] --> B[Policy & Risk Gate]
+    B --> C[Intelligence Router]
+
+    C --> D1[Rules / Templates]
+    C --> D2[Efficient Models]
+    C --> D3[High-Capability Models]
+    C --> D4[Frontier Model]
+    C --> D5[Human Escalation]
+
+    D1 --> E[Tools & Integrations]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+
+    E --> F[Enterprise Systems]
+
+    D2 -. low confidence .-> D3
+    D3 -. high complexity / risk .-> D4
+    D4 -. governance / exception .-> D5
+```
+
 AI Venture X operates multiple agent-driven systems structured as organisational models rather than single-agent tools.
 
 These systems:
-- consist of 100+ coordinated agents  
 - operate with defined roles, responsibilities, and delegation models  
 - are structured as functioning AI organisations  
 - execute workflows across business, automation, and commercial use cases  
 
-Two such systems are currently deployed using OpenClaw-based orchestration.
-
-This approach enables:
-- scalable task delegation  
-- controlled execution  
-- modular system design  
-- real-world operational capability  
-
----
-
-## Featured Work
-
-### Enterprise Agentic AI  
-Design and deployment of enterprise-grade multi-agent AI systems for automation, integration, and operational workflows.
-
-### Multi-Agent Orchestration  
-Implementation of orchestration layers coordinating specialist agents across structured workflows and decision pipelines.
-
-### AI Agent Organisation  
-Development of agent-driven systems structured as organisational models with defined roles, delegation, and governance.
-
-### White-Label AI API  
-Stateless API infrastructure for embedding AI agents into applications, enabling scalable, white-label deployment.
+Such systems are deployed across multiple orchestration approaches rather than being tied to a single framework or provider.
 
 ---
 
@@ -171,19 +205,20 @@ Stateless API infrastructure for embedding AI agents into applications, enabling
 
 ## Experience
 
-- 5+ years designing and delivering production-grade agentic AI systems
-- Architecture and operation of multi-agent environments (100+ agents)
-- Cross-platform expertise (OpenAI, CrewAI, OpenClaw and others), applying consistent orchestration patterns across frameworks
-- Enterprise deployments across Financial Services, Government, and commercial sectors
-- Development of white-label AI infrastructure and API layers
+- 5+ years designing and delivering production-grade agentic AI systems  
+- Architecture and operation of multi-agent environments (100+ agents)  
+- Cross-framework expertise across OpenAI, CrewAI, OpenClaw, and custom stacks, applying consistent orchestration patterns across environments  
+- Enterprise deployments across Financial Services, Government, and commercial sectors  
+- Development of white-label AI infrastructure and API layers  
 
 ---
 
 ## Background
 
+- Founder @ AI Venture X  
 - Former IBM / Samsung programme lead  
 - Delivered £250m+ programmes across Financial Services, Government, and Insurance  
-- Founder of AI Venture X  
+- Board-level advisor on AI operating models, integration, and scaled deployment  
 
 ---
 
