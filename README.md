@@ -2,20 +2,16 @@
 
 [Repositories](#key-repositories) • [Overview](#overview) • [Capabilities](#core-capabilities)
 
-Building and deploying enterprise-grade multi-agent AI systems at scale (100+ agents across production workflows)
-
 Founder @ AI Venture X
+
+Building and deploying enterprise-grade multi-agent AI systems at scale (100+ agents across production workflows)
 
 ```mermaid
 flowchart LR
-    A[Client] --> B[API Layer]
-    B --> C[Routing & Orchestration]
-    C --> D1[Sales Agents]
-    C --> D2[Support Agents]
-    C --> D3[Research Agents]
-    D1 --> E[Tools & Integrations]
-    D2 --> E
-    D3 --> E
+    A[Client] --> B[API]
+    B --> C[Orchestration]
+    C --> D[Agents]
+    D --> E[Tools & Integrations]
     E --> F[Enterprise Systems]
 ```
 ## Key Repositories
@@ -46,8 +42,6 @@ These systems:
 - integrate with enterprise infrastructure  
 - operate reliably under real-world constraints  
 - produce measurable commercial outcomes  
-
-Focused on production deployment and measurable commercial outcomes.
 
 ---
 
@@ -104,8 +98,31 @@ Result:
 
 ---
 
-## AI Organisations
+## Agent Organisation Model
 
+Systems are structured as operational organisations rather than collections of isolated agents.
+
+Typical structure includes:
+- Executive layer (strategy, prioritisation, oversight)
+- Functional agents (sales, support, research, operations)
+- Orchestration layer (routing, delegation, coordination)
+- Tool layer (controlled access to external systems)
+
+Agents operate with defined roles, responsibilities, and delegation models, enabling coordinated execution across workflows.
+
+```mermaid
+flowchart TB
+    A[Executive Layer] --> B[Orchestration]
+    B --> C1[Sales Agents]
+    B --> C2[Support Agents]
+    B --> C3[Research Agents]
+    B --> C4[Operations Agents]
+    C1 --> D[Tools]
+    C2 --> D
+    C3 --> D
+    C4 --> D
+    D --> E[Enterprise Systems]
+```
 AI Venture X operates multiple agent-driven systems structured as organisational models rather than single-agent tools.
 
 These systems:
@@ -183,10 +200,3 @@ Website: https://www.aiventurex.com/
 LinkedIn: https://www.linkedin.com/company/ai-venture-x/  
 
 ---
-
-## Focus
-
-Current work is centred on:
-- scaling multi-agent systems  
-- building white-label AI infrastructure  
-- deploying AI in commercially viable environments  
