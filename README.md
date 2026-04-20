@@ -8,10 +8,14 @@ Founder @ AI Venture X
 
 ```mermaid
 flowchart LR
-    A[Client] --> B[API]
-    B --> C[Orchestration]
-    C --> D[Agents]
-    D --> E[Tools]
+    A[Client] --> B[API Layer]
+    B --> C[Routing & Orchestration]
+    C --> D1[Sales Agents]
+    C --> D2[Support Agents]
+    C --> D3[Research Agents]
+    D1 --> E[Tools & Integrations]
+    D2 --> E
+    D3 --> E
     E --> F[Enterprise Systems]
 ```
 ## Key Repositories
