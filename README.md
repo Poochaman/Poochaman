@@ -256,6 +256,9 @@ Such systems are deployed across multiple orchestration approaches rather than b
 Author of  
 **The Scent of Thought: Dogs, Humans, and the Future of the AI Mind**
 
+Available on:  
+[Amazon](https://www.amazon.co.uk/Scent-Thought-Dogs-Humans-Future-ebook/dp/B0FXMPK2LP) • [Apple Books](https://books.apple.com/us/book/the-scent-of-thought/id6754466619) • [Google Play Books](https://play.google.com/store/books/details/Richard_Russell_The_Scent_of_Thought?id=BmWPEQAAQBAJ)
+
 ---
 
 ## Links
