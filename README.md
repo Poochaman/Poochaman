@@ -36,6 +36,11 @@ flowchart LR
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-111111)
 ![AI Governance](https://img.shields.io/badge/AI-Governance-111111)
 ![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-111111)
+![SaaS Product Engineering](https://img.shields.io/badge/SaaS-Product%20Engineering-111111)
+![API Design](https://img.shields.io/badge/API-Design%20%26%20Integration-111111)
+![System Architecture](https://img.shields.io/badge/System-Architecture-111111)
+![Production Observability](https://img.shields.io/badge/Production-Observability-111111)
+![Security Governance](https://img.shields.io/badge/Security-Governance-111111)
 
 Most production repositories are private because they contain commercial AI Venture X product code, proprietary orchestration logic, client workflows, provider configuration, or operational infrastructure. Public repositories are used to show architecture, implementation patterns, and technical direction without exposing commercial IP.
 
