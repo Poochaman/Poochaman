@@ -1,6 +1,6 @@
 # Richard Russell
 
-[Repositories](#key-repositories) • [Overview](#overview) • [Capabilities](#core-capabilities) • [Operating Model](#ai-company-operating-model) • [Experience](#experience)
+[Repositories](#key-repositories) • [Stack](#engineering-stack) • [Overview](#overview) • [Capabilities](#core-capabilities) • [Operating Model](#ai-company-operating-model) • [Experience](#experience)
 
 Founder @ AI Venture X
 
@@ -14,6 +14,30 @@ flowchart LR
     D --> E[Tools & Integrations]
     E --> F[Enterprise Systems]
 ```
+
+---
+
+## Engineering Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Agentic%20AI%20%26%20APIs-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI%20Workflows%20%26%20Automation-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Full--Stack%20AI-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%26%20Data-4169E1?logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-DevOps%20%26%20Automation-4EAA25?logo=gnubash&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-API%20Infrastructure-339933?logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-SaaS%20Applications-000000?logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Operational%20Data-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Architecture-232F3E?logo=amazonwebservices&logoColor=white)
+
+![LLM Orchestration](https://img.shields.io/badge/LLM-Orchestration-111111)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-111111)
+![AI Governance](https://img.shields.io/badge/AI-Governance-111111)
+![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-111111)
+
+Most production repositories are private because they contain commercial AI Venture X product code, proprietary orchestration logic, client workflows, provider configuration, or operational infrastructure. Public repositories are used to show architecture, implementation patterns, and technical direction without exposing commercial IP.
 
 ---
 
